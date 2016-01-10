@@ -1,0 +1,6 @@
+Ignoring some files and folders by default
+Often, we work with temp or personal files that we don't want to commit in
+the repository. So, when you commit all files, it is useful to skip certain kinds of
+files or folders.
+To achieve this result, we can create a .gitignore file in the repository. Git will
+read it and then skip the files and folders we listed inside it.

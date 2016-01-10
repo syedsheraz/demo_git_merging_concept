@@ -1,0 +1,11 @@
+Commit messages
+In the first chapter, we made two commits, and every time, we added a commit
+message. Adding a commit message is not only a good practice, it is mandatory. Git
+would not accept commits without a relative commit message. This is a thing I really
+appreciate. Let me explain it briefly.
+In other versioning control systems, such as SVN, commit messages are optional.
+Developers, we all know, are lazy people. When they are in a hurry or under stress,
+the temptation to commit code without telling what feature of the software they
+are going to add, modify, improve or delete is strong. In no time, you build a mute
+repository with no change history, and you have to deal with commits that are
+difficult to understand. In other words, welcome to hell.
