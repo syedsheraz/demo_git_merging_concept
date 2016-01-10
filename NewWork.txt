@@ -1,0 +1,9 @@
+Switching from branch to branch
+The only thing we have to do now is to switch to the NewWork branch to begin
+working on this separate argument. To move around from one branch to another,
+we will use the git checkout command. Type this command followed by the
+branch name to switch to:
+$ git checkout NewWork
+This time, Git gave us a short message, informing us that we have switched to the
+NewWork branch. As you can see, NewWork is within brackets in place of master,
+indicating the actual branch to us:
